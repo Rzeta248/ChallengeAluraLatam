@@ -10,7 +10,7 @@ El objetivo principal es analizar los datos de ventas de cuatro tiendas diferent
 - Costos promedio de envío.
 
 ## 📂 Archivos del Proyecto
-- `AluraStoreLatam_MODIFICADO_v2.ipynb` → Notebook con el análisis completo, gráficos y el informe final.
+- `AluraStoreLatam.ipynb` → Notebook con el análisis completo, gráficos y el informe final.
 - `README.md` → Este archivo, con la descripción del proyecto.
 
 ## 📊 Tecnologías utilizadas
