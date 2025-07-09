@@ -21,16 +21,15 @@ El objetivo principal es analizar los datos de ventas de cuatro tiendas diferent
 
 ## 📈 Gráficos incluidos
 - Gráfico de barras (Ingresos Totales)
-- Otros gráficos de ventas, calificaciones y costos (en proceso o según avance del Challenge).
+- Otros gráficos de ventas, calificaciones y costos.
 
 ## 🔎 Instrucciones de Uso
 1. Abrir el archivo `.ipynb` en Google Colab.
 2. Ejecutar todas las celdas.
 3. Revisar los gráficos y el informe final.
-4. Opcional: Ocultar el código en las celdas de gráficos para una mejor presentación (opción "Hide code" en Colab).
 
 ## 📌 Autor
-Proyecto realizado por **[Tu Nombre Aquí]** como parte del Challenge de Data Science en Alura LATAM.
+Proyecto realizado por **Rzeta248** como parte del Challenge de Data Science en Alura LATAM.
 
 ---
 
